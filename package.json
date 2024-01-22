@@ -32,5 +32,13 @@
     "sequelize": "^4.13.10",
     "winston": "^3.0.0",
     "x-xss-protection": "^1.1.0"
+  },
+  "jest": {
+    "coverageReporters": [
+      "json-summary", 
+      "text",
+      "lcov"
+    ]
   }
 }
+

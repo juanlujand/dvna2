@@ -1,0 +1,4 @@
+{
+    "sonarlint.output.showVerboseLogs": true,
+    "sonarlint.output.showAnalyzerLogs": true
+}
